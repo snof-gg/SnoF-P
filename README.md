@@ -6,6 +6,7 @@ Issue: There is no VBIOS support detected in this card. 'BIOS CSM/UEFI Mode' set
 >Solution 1: Try plugging your DP cable to your GPU and turn on your PC, and then remove all cables connected to your PC and open side panel and remove CMOS battery, wait for a few minutes and then put the CMOS battery back in and plug everything and try try turning it again.
 
 Issue: BLUE SCREEN OF DEATH(BSOD)
->Solution: Any problems related to BSOD can be tracked down easily if using [WinDBG](https://apps.microsoft.com/store/detail/windbg-preview/9PGJGD53TN86) Open WinDBG as administrator and open dump file which is located here "C:\Windows\Minidump\"
+>Solution: Any problems related to BSOD can be tracked down easily if using [WinDBG](https://apps.microsoft.com/store/detail/windbg-preview/9PGJGD53TN86) 
+>Open WinDBG as administrator and open dump file which is located here "C:\Windows\Minidump\" and click on analyze -v and wait for WinDBG to check the file. Once it's done, scroll down until you find BUGCHECK Code. You can search the BUGCHECK Code on Google to find out what is causing the BSODs.
 
 [Contribution: Mostafa Al Faysal](CONTRIBUTING.md)
