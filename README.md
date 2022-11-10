@@ -6,4 +6,4 @@ Issue: There is no VBIOS support detected in this card. 'BIOS CSM/UEFI Mode' set
 
 
 
-[Contribution Mostafa Al Faysal](CONTRIBUTING.md)
+[Contribution: Mostafa Al Faysal](CONTRIBUTING.md)
