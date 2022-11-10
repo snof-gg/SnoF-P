@@ -4,3 +4,6 @@
 
 Issue: There is no VBIOS support detected in this card. 'BIOS CSM/UEFI Mode' settings in BIOS will be change to 'UEFI'.
 
+
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
