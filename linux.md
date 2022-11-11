@@ -1,4 +1,6 @@
-# How to change HDD ownership in Linux
+# This document contains various troubleshooting for Linux baseed Operating System
 
->sudo chown -R $<$username$>$ $<$path to mount point$>$  
+How to change HDD onership in Linux:
+
+>`sudo chown -R <username$> <path to mount point$>`  
 >Example: sudo chown -R excalibur /run/media/excalibur/Data
