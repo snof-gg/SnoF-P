@@ -1,4 +1,4 @@
-# This document contains various troubleshooting for Linux baseed Operating System
+# This document contains various troubleshooting for Linux baseed Operating Systems
 
 How to change HDD onership in Linux:
 
